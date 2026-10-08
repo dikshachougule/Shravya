@@ -8,7 +8,7 @@
 - SQL
 
 🚀 Projects:
-- Guess a Number Game (Java)
+- Guess a Number Game (Java)(cpp)
 - Student Management System
 
 📫 Connect with me:
